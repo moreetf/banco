@@ -35,7 +35,7 @@ public class Banco extends javax.swing.JFrame {
         lblLogo.setText("jLabel1");
         lblLogo.setMaximumSize(new java.awt.Dimension(200, 200));
         lblLogo.setMinimumSize(new java.awt.Dimension(100, 100));
-        getContentPane().add(lblLogo, new org.netbeans.lib.awtextra.AbsoluteConstraints(22, 32, 136, 127));
+        getContentPane().add(lblLogo, new org.netbeans.lib.awtextra.AbsoluteConstraints(22, 32, 160, 140));
 
         jLabel2.setText("BANCO");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(63, 6, -1, -1));
